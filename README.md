@@ -1,6 +1,6 @@
 <h1>Gestión de archivos en python</h1>
 
-Este programa realiza una gestión de archivos y directorios. Al comienzo muestra un menú para realizar la gestión, estas són:
+PROGRAMA INCOMPLETO!!!!Este programa realiza una gestión de archivos y directorios. Al comienzo muestra un menú para realizar la gestión, estas són:
 <ul>
   <li>Creación</li>
   <li>Eliminación</li>
